@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="LAPTOP-SD9LS61E" name="test.Demo" tests="1" failures="0" timestamp="29 Apr 2020 06:07:16 GMT" time="10.349" errors="0">
+  <testcase name="DemoClass" time="10.33" classname="test.Demo"/>
+</testsuite>
